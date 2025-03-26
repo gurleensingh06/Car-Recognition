@@ -1,8 +1,6 @@
 # Car Recognition
 
-
-This repository is to do car recognition by fine-tuning ResNet-152 with Cars Dataset from Stanford.
-
+This project identifies the images of cars and identifies it
 
 ## Dependencies
 
